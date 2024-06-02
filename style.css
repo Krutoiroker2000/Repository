@@ -1,0 +1,230 @@
+body {
+    padding: 0px;
+    margin: 0px;
+
+}
+.sigma {
+   text-align: center; 
+   font-size:60px;
+   font-family: "Comfortaa", sans-serif;
+}
+
+
+
+
+.Zanuda {
+    
+}
+
+
+
+.emae1 {
+  padding-left:10px ;
+  padding-right:10px ;
+}
+.emae2 {
+  padding-left:10px ;
+  padding-right:10px ;
+}
+.emae3 {
+  padding-left:10px ;
+  padding-right:10px;
+}
+.emae4 {
+  padding-left:10px ;
+  padding-right:10px ;
+}
+
+
+
+
+header {
+	background:#07093B ;
+    padding-top:60px ;
+    padding-bottom: 60px;
+    margin-bottom: 0px;
+}
+.mini {
+    font-family: sans-serif;
+    padding: 0px;
+    text-align: center;
+    border: 10px solid #07093B;
+    font-size: 35px;
+    padding-right:0px;
+    padding-left:0px ;
+    width: 500px;
+    background:#F06F06 ;
+    margin-right: 255px;
+    margin-bottom: 50px;
+}
+.sini  {
+    width: 500px;
+    height: 350px;
+}
+
+
+
+.giga {
+    border:20px solid white;
+    margin-left: 25%;
+    margin-right: 25%;
+	text-align: center;
+    font-size: 150px;
+    color:white;
+    font-family: sans-serif;
+} 
+
+.lama {
+   width: 500px;
+    height: 350px;
+}
+.bim {
+   font-family: sans-serif;
+    padding: 0px;
+    text-align: center;
+    border: 10px solid #07093B;
+    font-size: 35px;
+    padding-right:0px;
+    padding-left:0px ;
+    width: 500px;
+    background:#26587A ;
+    margin-right: 255px;
+    margin-bottom: 50px;
+    color: ;
+}
+
+
+
+
+main h2 {
+    margin-top: 0px;
+}     
+.portal {
+    width: 500px;
+    height: 350px;
+}
+.gou {
+   font-family: sans-serif;
+    padding: 0px;
+    text-align: center;
+    border: 10px solid #07093B;
+    font-size: 35px;
+    padding-right:0px;
+    padding-left:0px ;
+    width: 500px;
+    background:#3D64F4 ; 
+    margin-bottom: 50px;
+}
+.left {
+   font-family: sans-serif;
+    padding: 0px;
+    text-align: center;
+    border: 10px solid #07093B;
+    font-size: 30px;
+    padding-right:0px;
+    padding-left:0px ;
+    width: 500px;
+    background-image:linear-gradient(to right,#0B7207,#CEC405 )  ; 
+    margin-bottom: 50px;
+    padding-bottom: 0px;
+}
+.dead {
+    width: 500px;
+    height: 350px;
+}
+.mortira {
+    text-align: center;
+    color:white;
+    font-family: sans-serif;
+    font-size: 100px;
+    font-family: "Josefin Sans", sans-serif;
+}
+.royal {
+    margin-bottom: -68px;
+}
+.king {
+    margin-top: 0px;
+}
+.matras {
+    font-family: "Josefin Sans", sans-serif;
+    font-size:40px;
+    color: black;
+ }
+.goblin {
+    float:left;
+    width: 600px;
+    height: 400px;
+}
+.giant {
+    font-size: 30px;
+    font-family: "Josefin Sans", sans-serif;
+    color: white;
+}
+.lomka {
+    font-family: sans-serif;
+    font-size: 50px;
+    text-align: center;
+ }
+
+
+.emae {
+font-size: 100px;    
+padding-top: 100px; 
+}
+
+section {
+    display: flex;
+}
+main {
+    background-color: #657392;
+    padding: 0px;
+    margin-bottom: 0px;
+}  
+footer p {
+    text-align: center;
+    margin-bottom: 20px;
+}
+.mefedron {
+    font-size: 35px;
+    font-family: sans-serif;
+}
+.china {
+    width: 650px;
+    height: 400px;
+    float:; 
+}
+.ssalc {
+   color: blue;
+   font-size: 65px;
+   font-family: sans-serif;
+   text-align:center ;
+}
+.komarik {
+   color: orange;
+}
+.clash {
+    margin-bottom: -100px;
+}
+.mortal {
+    margin-bottom: -37px;
+}
+.caplocks {
+    font-family: sans-serif;
+    font-size:25px ;
+}
+
+
+
+
+
+footer {
+  height: 200px;
+  background: black;
+  color: white;
+  font-size: 35px;
+  font-family: sans-serif;
+  padding-top: 0px;
+  padding-bottom: 0px;
+  margin-top: -35px;
+  margin-bottom: 0px;
+}
